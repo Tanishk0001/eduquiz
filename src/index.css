@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Fraunces', Georgia, serif;
+  --color-brand-btn: #7e93c8;
+  --color-brand-btn-hover: #7286bc;
+  --color-brand-btn-active: #667bb0;
+}
+
+body {
+  font-family: var(--font-sans);
+}

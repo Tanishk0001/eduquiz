@@ -1,0 +1,6 @@
+{
+  "name": "EduQuest",
+  "description": "Interactive learning and quiz platform with Learn, Practice, Test, and Improve modes for Classes 6-12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
